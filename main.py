@@ -2,7 +2,7 @@ import sys
 
 
 def print_hello(name):
-    print(f'Hello, {name}!')  # Press Ctrl+F8 to toggle the breakpoint.
+    print(f'Hello, {name}!')
 
 
 if __name__ == '__main__':
